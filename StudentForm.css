@@ -1,0 +1,152 @@
+    body{
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      font-family: 'Jost', sans-serif;
+      background: linear-gradient(to bottom, #d2d89e, #91e25a);
+    }
+  
+    .head {
+      font-size: 3rem;
+      font-weight: bold;
+      color: rgb(0, 0, 0);
+      justify-content: center;
+      margin-left: 0px;
+      text-align: center;
+      margin-top: 5px;
+    
+    }
+    label{
+      color: #fff;
+      font-size: 2rem;
+      font-style: italic;
+      justify-content: center;
+      display: flex;
+      margin: 10px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: .5s ease-in-out;
+    }
+    input{
+      width: 60%;
+      height: 20px;
+      background: #e0dede;
+      justify-content: center;
+      display: flex;
+      margin: 10px auto;
+      padding: 10px;
+      border: rgb(5, 5, 5);
+      outline: none;
+      border-radius: 5px;
+    }
+    button{
+      width: 100%;
+      height: 30px;
+      margin: 5px auto;
+      justify-content: center;
+      display: block;
+      color: rgb(4, 41, 27);
+      background: rgb(187, 226, 161);
+      font-size: 1em;
+      font-weight: bold;
+      margin-top: 20px;
+      border-radius: 5px;
+      transition: .2s ease-in;
+      cursor: pointer;
+    }
+    button:hover{
+      background: violet;
+    }
+    #ad{
+      background-color: rgb(202, 181, 181);
+      width: 15%;
+      height: 50px;
+      color: rgb(19, 114, 114);
+      text-align: center;
+      font-size: 20px;
+      border-radius: 50px 50px 50px 50px;
+    }
+    
+    #idbox,th,table {
+      text-align: center;
+      margin-top: 40px;
+      justify-content: center;
+      background-color: rgb(142, 143, 231);
+      color: crimson;
+      font-size: larger;
+      font-size: 1.25rem;
+      font-weight: bold;
+      font-style: italic;
+      border-spacing: 5px;
+      border: 3px solid black;
+      margin-left: 50px;
+     
+    }
+    
+    #ibox {
+      text-align: center;
+      justify-content: center;
+      background-color: rgb(245, 214, 115);
+      color: rgb(0, 0, 0);
+      font-size: larger;
+      font-size: 1rem;
+      font-style: italic;
+      
+    }
+    .container{
+      background-color: rgb(19, 114, 114);
+      padding: 30px;
+      box-shadow:  15px 15px rgb(112, 187, 174);
+    }
+    #ip{
+      background-color: rgb(232, 233, 192);
+      width: 200px;
+      border-radius: 50px 50px 50px 50px;
+      padding: 10px;
+
+    }
+    #ipf{
+      background-color:rgb(19, 114, 114);
+      display: flex;
+      margin: 10px;
+    }
+    #ipf2{
+      background-color:rgb(245, 214, 115);
+      display: flex;
+      margin: 5px;
+      justify-content: space-around;
+
+    }
+    .ipn{
+      margin-left: 50px;
+    }
+  .ipe{
+    margin-left: 60px;
+  }
+
+  .ipp{
+    margin-left: 40px;
+  }
+
+  .ips{
+    margin-left: 90px;
+  }
+
+  .ipc{
+    margin-left: 80px;
+  }
+
+  .ipcou{
+    margin-left: 20px;
+  }
+
+  .ippc{
+    margin-left: 20px;
+  }
+
+  .ipst{
+    margin-left: 100px;
+  }
